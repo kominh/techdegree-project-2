@@ -40,13 +40,16 @@ img {
   margin: 0;
   padding: 0;
   list-style: none;
+  
+
 }
 
 #gallery li {
   float: left;
-  width: 45%;
+  width: 90%;
   margin: 2.5%;
  color: #bdc3c7;
+
 
 }
 
@@ -86,9 +89,10 @@ img {
 .name,
 .main-nav li {
   text-align: center;
-  background: ;
+  background: lightblue;
   margin-top: 6px;
   margin-bottom: 6px;
+
 
 }
 
@@ -114,7 +118,7 @@ img {
 }
 ---*/
 .main-header {
-  background: #3acec2;
+  background: ;
   padding: 1em 0;
 }
 
@@ -151,6 +155,7 @@ img {
    .main-nav,
    .main-nav li{
       display: inline-block;
+      background: none;
    }
 
    .name {
