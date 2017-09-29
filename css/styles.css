@@ -1,0 +1,221 @@
+/* ================================= 
+  Base Element Styles
+==================================== */
+
+* {
+ box-sizing: border-box;
+}
+
+body {
+  line-height: 1.6;
+  color: #3a3a3a;
+  
+} 
+
+h1 {
+
+}
+
+h3,
+h2 {
+  text-align: center;
+}
+
+
+a {
+  text-decoration: none;
+
+}
+
+img {
+  max-width: 100%;
+}
+
+#phone {
+  margin-bottom: -15px;
+
+}
+
+#gallery {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+#gallery li {
+  float: left;
+  width: 45%;
+  margin: 2.5%;
+ color: #bdc3c7;
+
+}
+
+
+
+
+
+/**this is for paragraphs under images**/
+#gallery li a p {
+  margin: 0;
+  padding: 5%;
+  font-size: 0.05em;
+  color: black;
+  text-align: center;
+
+}
+
+
+
+
+
+
+
+
+/* ================================= 
+  Base Layout Styles
+==================================== */
+
+
+/* ---- Navigation ---- */
+
+.name {
+  margin: 0;
+
+}
+
+.name,
+.main-nav li {
+  text-align: center;
+  background: ;
+  margin-top: 6px;
+  margin-bottom: 6px;
+
+}
+
+.name a,
+.main-nav a {
+  padding: 10px 15px;
+  display: block;
+}
+
+.main-nav a {
+  font-size: .95em;
+
+}
+
+
+
+/* ---- Layout Containers ---- */
+
+/*---
+.wrapper {
+  padding-left: 1em: 
+  padding-right: 1em;
+}
+---*/
+.main-header {
+  background: #3acec2;
+  padding: 1em 0;
+}
+
+.main-footer {
+  padding: 2em 0;
+  background: #d9e4ea;
+  text-align: center;
+  font-size: 0.85em;
+
+}
+
+
+/* ---- Page Elements ---- */
+
+
+
+/* ================================= 
+  Media Queries
+==================================== */
+
+@media (min-width: 768px) {
+   
+   .wrap {
+      min-height: calc(100vh - 400.5px);
+
+   }
+
+   .wrapper {
+       width: 80%;
+       max-width: 1000px;
+      margin: 0 auto;
+   }
+   .name,
+   .main-nav,
+   .main-nav li{
+      display: inline-block;
+   }
+
+   .name {
+      width: 240px;
+      margin-left: -30px;
+      margin-right: 170px;
+      margin-top: 10px;
+   }
+   .main-nav li {
+    margin-right: -5px;
+   }
+
+   .col {
+    display: inline-block;
+    width: 50%;
+    margin-right: -4px;
+    vertical-align: top;
+    padding-left: 1em;
+    padding-right: 1em;
+
+   }
+   .primary {
+    float: right;
+   }
+
+   #gallery li {
+  width: 28.3333%;
+
+}
+
+#gallery li:nth-child(4n){
+  clear: left;
+
+}
+
+.clearfix::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+
+}
+
+
+@media (min-width: 1024px) {
+
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

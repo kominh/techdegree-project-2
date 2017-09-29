@@ -1,0 +1,332 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"to",
+				"toUpperCase"
+			],
+			[
+				"random",
+				"randomNumber"
+			],
+			[
+				"q",
+				"questionsLeft"
+			],
+			[
+				"pro",
+				"prompt"
+			],
+			[
+				"C",
+				"CSSBadges"
+			],
+			[
+				"H",
+				"HTMLBadges"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"mr",
+				"margin"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"f",
+				"flex-basis"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"al",
+				"alt\tAttr"
+			],
+			[
+				"a",
+				"alt\tAttr"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"text-al",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Win7v5/Desktop/kc portfolio/html/css/main.css",
+		"/C/Users/Win7v5/Documents/GitHub/techdegree-project-1/resume.html",
+		"/C/Users/Win7v5/Documents/GitHub/techdegree-project-1/about.html",
+		"/C/Users/Win7v5/Documents/GitHub/techdegree-project-1/styles.css",
+		"/C/Users/Win7v5/Desktop/treehouse/TECHDEGREE/PROJECT_1/index.html",
+		"/C/Users/Win7v5/Documents/GitHub/techdegree-project-1/index.html",
+		"/C/Users/Win7v5/Documents/GitHub/techdegree-project-1/readme.md",
+		"/C/Users/Win7v5/Desktop/kc portfolio/html/about.html",
+		"/C/Users/Win7v5/Desktop/kc portfolio/html/kcindex.html",
+		"/C/Users/Win7v5/Desktop/treehouse/flexbox/3-building-a-layout-with-flexbox/1-navigation-bar-with-flexbox/start/css/flexbox.css",
+		"/C/Users/Win7v5/Desktop/kc portfolio/flexbox projects/kcflexindex.html",
+		"/C/Users/Win7v5/Desktop/treehouse/flexbox/3-building-a-layout-with-flexbox/1-navigation-bar-with-flexbox/start/index.html",
+		"/C/Users/Win7v5/Desktop/treehouse/css layout basic/getting started with css layout/2-css-reset-with-normalize/start/index.html",
+		"/C/Users/Win7v5/Desktop/kc portfolio/html/function.js",
+		"/C/Users/Win7v5/Desktop/kc portfolio/html/css/responsive.css",
+		"/C/Users/Win7v5/Desktop/kc portfolio/html/contact.html",
+		"/C/Users/Win7v5/Desktop/kc portfolio/html/kclanding.html",
+		"/C/Users/Win7v5/Desktop/treehouse/css layout basic/1-getting-started-with-css-layout.zip",
+		"/C/Users/Win7v5/Desktop/kc portfolio/javascript course/Stage_01/video03/css/main.css",
+		"/C/Users/Win7v5/Desktop/kc portfolio/html/css/normalize.css",
+		"/C/Users/Win7v5/Desktop/kc portfolio/csscourse/5-basic-layout/4-backgrounds_size-and-position/final/index.html",
+		"/C/Users/Win7v5/Desktop/kc portfolio/csscourse/5-basic-layout/4-backgrounds_size-and-position/final/css/style.css",
+		"/C/Users/Win7v5/Desktop/kc portfolio/csscourse/1-getting-started-with-CSS/3-importing-stylesheets-with-@import/start/index.html",
+		"/C/Users/Win7v5/Desktop/kc portfolio/csscourse/1-getting-started-with-CSS/2-external-style-sheets/final/index.html",
+		"/C/Users/Win7v5/Desktop/kc portfolio/csscourse/1-getting-started-with-CSS/2-external-style-sheets/start/index.html",
+		"/C/Users/Win7v5/Desktop/kc portfolio/csscourse/1-getting-started-with-CSS/1-inline-and-internal-styles/start/css/import-styles.css",
+		"/C/Users/Win7v5/Desktop/udacity/html/portfolio/framework/test.html",
+		"/C/Users/Win7v5/Desktop/udacity/html/portfolio/framework/css/main.css",
+		"/C/Users/Win7v5/Desktop/udacity/html/portfolio/toplist/udacityindex.html",
+		"/C/Users/Win7v5/Desktop/script.js",
+		"/C/Users/Win7v5/Desktop/exampleindex.html",
+		"/C/Users/Win7v5/Desktop/local_html/web120/chapter5text.html",
+		"/C/Users/Win7v5/Desktop/local_html/web120/assignments6.html",
+		"/C/Users/Win7v5/Desktop/local_html/web115/my_multipage_html_site/index.htm",
+		"/C/Users/Win7v5/Desktop/local_html/web115/toc.html",
+		"/C/Users/Win7v5/Desktop/udacity/html/portfolio/toplist/index.html.txt",
+		"/C/Users/Win7v5/Desktop/local_html/web140/tripsmart/index.html",
+		"/C/Users/Win7v5/AppData/Local/Temp/scp10407/home/kxc9628f/public_html/toc.html",
+		"/C/Users/Win7v5/Desktop/local_html/web115/my_multipage_html_site/styles.css",
+		"/C/Users/Win7v5/Desktop/local_html/web115/my_multipage_php_site/home.php",
+		"/C/Users/Win7v5/Desktop/local_html/web115/my_multipage_php_site/styles.css",
+		"/C/Users/Win7v5/Desktop/local_html/web115/my_multipage_php_site/index.php",
+		"/C/Users/Win7v5/Desktop/local_html/web115/my_multipage_php_site/services.php",
+		"/C/Users/Win7v5/Desktop/local_html/web115/my_multipage_html_site/contact.htm",
+		"/C/Users/Win7v5/Desktop/local_html/web115/my_multipage_php_site/contact.php",
+		"/C/Users/Win7v5/Desktop/local_html/web115/tocstyle.css",
+		"/C/Users/Win7v5/Desktop/local_html/web115/my_multipage_html_site/media.htm",
+		"/C/Users/Win7v5/Desktop/local_html/web115/my_multipage_php_site/media.php",
+		"/C/Users/Win7v5/Desktop/local_html/web115/my_multipage_html_site/clients.htm",
+		"/C/Users/Win7v5/Desktop/local_html/web115/my_multipage_php_site/clients.php",
+		"/C/Users/Win7v5/Desktop/local_html/web115/my_multipage_html_site/about_us.htm",
+		"/C/Users/Win7v5/Desktop/local_html/web115/my_multipage_php_site/aboutus.php",
+		"/C/Users/Win7v5/Desktop/local_html/web115/my_multipage_html_site/services.htm",
+		"/E/web115/js/add-content.js",
+		"/E/web115/add-content.html",
+		"/C/Users/Win7v5/Desktop/javascript-and-jquery-book-code-0915/c02/js/example.js",
+		"/C/Users/Win7v5/Desktop/javascript-and-jquery-book-code-0915/c02/js/string-variable.js",
+		"/C/Users/Win7v5/Desktop/javascript-and-jquery-book-code-0915/c01/css/c01.css",
+		"/C/Users/Win7v5/Desktop/javascript-and-jquery-book-code-0915/c01/add-content.html",
+		"/C/Users/Win7v5/Desktop/javascript-and-jquery-book-code-0915/c01/js/add-content.js",
+		"/C/Users/Win7v5/Desktop/local_html/web115/js_c01/add-content2.html",
+		"/C/Users/Win7v5/Desktop/local_html/web115/js_c01/add-content.js",
+		"/C/Users/Win7v5/Desktop/local_html/web115/javascript-and-jquery-book-code-0915.zip",
+		"/C/Users/Win7v5/Desktop/local_html/web115/my_multipage_php_site/alpha.php",
+		"/C/Users/Win7v5/Desktop/local_html/web115/multisites/my_multipage_html_site/index.htm",
+		"/C/Users/Win7v5/Desktop/classes/template.html",
+		"/C/Users/Win7v5/Desktop/local_html/web140/contract.html",
+		"/C/Users/Win7v5/Desktop/local_html/web115/contract115.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 63.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
