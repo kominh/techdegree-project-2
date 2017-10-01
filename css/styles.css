@@ -108,20 +108,6 @@ h3 {
 }
 
 
-
-
-/*--
-.container {
-  padding-left: 1em;
-  padding-right: 1em;
-
-}--*/
-
-
-
-
-}
-
 .intro-image {
   display: block;
   margin: 0 auto;
@@ -142,9 +128,6 @@ h3 {
 }
 
 
-
-
-
 #mobile-name {
  float: left;
  margin-left: 5px;
@@ -159,16 +142,6 @@ h3 {
 
  
 } 
-/*-----
-#mobile-name,
-#mobile-return {
-  margin-bottom: 10px;
-}
-----*/
-
-
-
-
 
 .secondary-nav {
   display: none;
